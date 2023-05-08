@@ -1,0 +1,59 @@
+@charset "UTF-8";
+p {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.foto-perfil {
+    height:200px;
+    max-width: auto;
+    border-radius: 50%;
+}
+
+.icones {
+    padding-left: 5px;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+
+.paragrafoBrancos {
+    color: white !important;
+}
+
+h3{
+    color: white;
+}
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: black !important;
+}
+
+.corPrimaria {
+    background-color: black;
+}
+
+.itemMenu {
+    color: rgb(0, 0, 0);
+}
+
+.corSecundaria {
+    background-color: rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
